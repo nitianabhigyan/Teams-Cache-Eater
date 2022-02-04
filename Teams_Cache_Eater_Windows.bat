@@ -1,5 +1,5 @@
 @echo off
-echo "Killing teams 🔪"
+echo "Killing Microsoft teams 🔪"
 taskkill /f /im Teams.exe
 echo "Killing Outlook 🔪"
 taskkill /f /im outlook.exe
