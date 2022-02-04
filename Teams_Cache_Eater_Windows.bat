@@ -1,7 +1,7 @@
 @echo off
-echo "Killing Microsoft teams 🔪"
+echo "Killing 🔪Microsoft Teams🗡️"
 taskkill /f /im Teams.exe
-echo "Killing Outlook 🔪"
+echo "Killing 🔪Outlook🗡️"
 taskkill /f /im outlook.exe
 timeout 1
 echo "changing directories"
