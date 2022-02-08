@@ -13,4 +13,3 @@ echo "\e[92mAttempting Microsoft Teams restart\e[0m"
 sleep 3
 open "/Applications/Microsoft Teams.app"
 echo "\e[40;38;5;82mMy job here is done. :-)\e[0m"
-echo "\e[93m\e[41mDon't forget to change back to dark mode (if you had it turned on earlier)\e[0m\n" 
