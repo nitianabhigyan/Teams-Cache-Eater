@@ -1,4 +1,4 @@
-# Teams-Cache-Eater
+# Teams-Cache-Eater 🔪🗡️
 A couple of simple scripts to clear the cache in a nice clean way.<br>
 Does your team-mate's profile picture for you and the world are different??<br>
 This is a super simple script, which honestly should be a built in button in Microsoft Teams, since they won't do it, so let's get started!
@@ -19,4 +19,8 @@ Before running script, please ensure you don't have any unsaved changes like a "
 <code>chmod +x ./Teams_Cache_Eater_MacOS.sh </code><br/>
 3. Run the script using:.<br>
 <code>./Teams_Cache_Eater_MacOS.sh </code><br/>
-<br>
+
+## Tested Operating Systems
+The [Teams_Cache_Eater_MacOS](Teams_Cache_Eater_MacOS.sh) script has been tested on MacOS Monterey 12.0 and 12.2 release.<br>
+The [Teams_Cache_Eater_Windows](Teams_Cache_Eater_Windows.bat) script has been tested on Windows 10 releases 1909 to 21H2.<br>
+The scripts should work on releases before that too, it's just, I didn't test it.
