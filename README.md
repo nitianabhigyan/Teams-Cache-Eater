@@ -3,6 +3,9 @@ A couple of simple scripts to clear the cache in a nice clean way.<br>
 Does your team-mate's profile picture for you and the world are different??<br>
 This is a super simple script, which honestly should be a built in button in Microsoft Teams, since they won't do it, so let's get started!
 
+## Note
+Before running script, please ensure you don't have any unsaved changes like a "Typed but not sent" message or participant in a meeting. The author will not be responsible for any data loss.
+
 # How to use it?
 
 ## For Windows
@@ -17,4 +20,3 @@ This is a super simple script, which honestly should be a built in button in Mic
 3. Run the script using:.<br>
 <code>./Teams_Cache_Eater_MacOS.sh </code><br/>
 <br>
-<b>NOTE</b>: Before running script, please ensure you don't have any unsaved changes like a "Typed but not sent" message. The author will not be responsible for any data loss.
