@@ -16,10 +16,13 @@ Before running script, please ensure you don't have any <b>unsaved</b> changes l
 ## For MacOS
 1. Download the script.<br>
 2. Provide execution permission to the script:<br>
-<code>chmod +x ./Teams_Cache_Eater_MacOS.sh </code><br/>
+```console
+$ chmod +x ./Teams_Cache_Eater_MacOS.sh 
+```
 3. Run the script using:.<br>
-<code>./Teams_Cache_Eater_MacOS.sh </code><br/>
-
+```console
+$ ./Teams_Cache_Eater_MacOS.sh 
+```
 ## Tested Operating Systems
 The [Teams_Cache_Eater_MacOS](Teams_Cache_Eater_MacOS.sh) script has been tested on MacOS Monterey 12.0 and 12.2 release.<br>
 The [Teams_Cache_Eater_Windows](Teams_Cache_Eater_Windows.bat) script has been tested on Windows 10 releases 1909 to 21H2.<br>
