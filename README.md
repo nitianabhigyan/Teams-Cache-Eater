@@ -23,6 +23,7 @@ $ chmod +x ./Teams_Cache_Eater_MacOS.sh
 ```console
 $ ./Teams_Cache_Eater_MacOS.sh 
 ```
+![Mac execution](https://github.com/nitianabhigyan/Teams-Cache-Eater/blob/5bd3835d938395d9d8cb6e5db3bc70702ad1ef33/images/Execution%20on%20Mac.png)
 ## Tested Operating Systems
 The [Teams_Cache_Eater_MacOS](Teams_Cache_Eater_MacOS.sh) script has been tested on MacOS Monterey 12.0 and 12.2 release.<br>
 The [Teams_Cache_Eater_Windows](Teams_Cache_Eater_Windows.bat) script has been tested on Windows 10 releases 1909 to 21H2.<br>
