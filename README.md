@@ -1,10 +1,10 @@
-# Teams-Cache-Eater 🔪🗡️
-A couple of simple scripts to clear the cache in a nice clean way.<br>
+# Teams-Cache-Eater 🔪
+A couple of simple scripts to clear the cache for Microsoft Teams, in a nice, clean and consistent fashion.<br>
 Does your team-mate's profile picture for you and the world are different??<br>
 This is a super simple script, which honestly should be a built in button in Microsoft Teams, since they won't do it, so let's get started!
 
 ## Note⚠️
-Before running script, please ensure you don't have any <b>unsaved</b> changes like a "Typed but not sent" message or participant in a meeting. The author will not be responsible for any data loss.
+Before running script, please ensure you don't have any <b>UNSAVED</b> changes like a "Typed but not sent" message or are a participant in a meeting. The author will not be responsible for any data loss.
 
 # How to use it?
 
